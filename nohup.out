@@ -83,3 +83,6 @@ from sklearn.model_selection import train_test_split
 [0;31mModuleNotFoundError[0m: No module named 'tqdm'
 ModuleNotFoundError: No module named 'tqdm'
 
+[NbConvertApp] Converting notebook demo.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: python3
+[NbConvertApp] Writing 2775 bytes to demo.nbconvert.ipynb
