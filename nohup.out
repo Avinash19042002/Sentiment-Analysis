@@ -98,3 +98,6 @@ ModuleNotFoundError: No module named 'tqdm'
 [NbConvertApp] Converting notebook demo2.ipynb to notebook
 [NbConvertApp] Executing notebook with kernel: python3
 [NbConvertApp] Writing 2447 bytes to demo2.ipynb
+[NbConvertApp] Converting notebook demo2.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: python3
+[NbConvertApp] Writing 2745 bytes to demo2.ipynb
